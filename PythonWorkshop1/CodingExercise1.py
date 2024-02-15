@@ -1,4 +1,4 @@
-# Coding Exercise 1 | Jenna Tran
+# Coding Exercise 1 (Python 1) | Jenna Tran
 
 t_max = 150e-3   # second
 dt = 1e-3        # second
